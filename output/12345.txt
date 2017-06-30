@@ -1,0 +1,35 @@
+use lp;
+function samplesCCAnalysis(source,destination,numberOfSamples,localfield, foreignfield) {
+var correlation     = [];
+var sourceInit      = source.charAt(0);
+var destinationInit = destination.charAt(0);
+for ( j = 1; j < numberOfSamples+1; ++j ) {
+    sourceSamplename            = sourceInit+j;
+    destinationSampleName       = destinationInit+j;
+    resCollection   = "CC"+sourceSamplename+destinationSampleName;
+    db[resCollection].drop();
+    print("Number of documents in "+sourceSamplename+ " is :" + db[sourceSamplename].count() +" and "+ destinationSampleName+ " is :"+ db[destinationSampleName].count());
+    db[sourceSamplename].aggregate([{$lookup:{from:destinationSampleName,localField:localfield,foreignField:foreignfield,as:"corr" }},{$match:{"corr":{$ne:[]}}},{ $out : resCollection }]);
+    correlation[j]=db[resCollection].count();
+					}
+var av=0.0;
+for ( j = 1; j < numberOfSamples+1; ++j ) {
+    sourceSamplename            = sourceInit+j;
+    destinationSampleName       = destinationInit+j;
+    av=av+ correlation[j];
+    print("correlation "+ sourceSamplename + "["+j+"]"+ " --> " + destinationSampleName + "["+j+"] : " + correlation[j]);
+                       }
+print("================================");
+print("Average: "+av/numberOfSamples);
+print("================================");
+}
+
+//=========================================================================================================================
+samplesCCAnalysis("social","phone",10,"email", "email");
+samplesCCAnalysis("phone","health",10,"phone", "phone");
+samplesCCAnalysis("health","finance",10,"ssn", "ssn");
+
+
+db.health.aggregate([{$lookup:{from:"finance",localField:"ssn",foreignField:"ssn",as:"corr" }},{$match:{"corr":{$ne:[]}}},{ $out : "healthFinance" }]);
+db.social.aggregate([{$lookup:{from:"phone",localField:"email",foreignField:"email",as:"corr" }},{$match:{"corr":{$ne:[]}}},{ $out : "socialPhone" }]);
+db.phone.aggregate([{$lookup:{from:"health",localField:"phone",foreignField:"phone",as:"corr" }},{$match:{"corr":{$ne:[]}}},{ $out : "phoneHealth" }]);

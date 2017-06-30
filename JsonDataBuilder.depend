@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495601632 source:/home/m/Dropbox/001research/mine/code/JsonDataBuilder/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	<unistd.h>
+

@@ -1,0 +1,44 @@
+Sample size: 100000
+Sample count:10
+-----------------------------------------------------------------
+Results
+-----------------------------------------------------------------
+correlation[1] is 43361
+correlation[2] is 42988
+correlation[3] is 43223
+correlation[4] is 43176
+correlation[5] is 43368
+correlation[6] is 43084
+correlation[7] is 42992
+correlation[8] is 43151
+correlation[9] is 43144
+correlation[10] is 43006
+===============[health-->phone]===================================
+Average: 43149.3 Percent: 43.149300000000004
+==================================================================
+correlation[1] is 31395
+correlation[2] is 31025
+correlation[3] is 31040
+correlation[4] is 31331
+correlation[5] is 31305
+correlation[6] is 31047
+correlation[7] is 31213
+correlation[8] is 31219
+correlation[9] is 31086
+correlation[10] is 30930
+===============[health-->finance]=================================
+Average: 31159.1 Percent: 31.159100000000002
+==================================================================
+correlation[1] is 50278
+correlation[2] is 50512
+correlation[3] is 50306
+correlation[4] is 50044
+correlation[5] is 50464
+correlation[6] is 50414
+correlation[7] is 50165
+correlation[8] is 50549
+correlation[9] is 50398
+correlation[10] is 50470
+===============[social-->phone]==================================
+Average: 50360 Percent: 50.36000000000001
+==================================================================

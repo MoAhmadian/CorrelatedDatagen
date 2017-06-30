@@ -1,0 +1,321 @@
+
+Sample size: 10000
+----------------------------------
+correlation[1] is 4178
+correlation[2] is 4320
+correlation[3] is 4184
+correlation[4] is 4227
+correlation[5] is 4239
+correlation[6] is 4196
+correlation[7] is 4162
+correlation[8] is 4232
+correlation[9] is 4251
+correlation[10] is 4289
+correlation[11] is 4230
+correlation[12] is 4244
+correlation[13] is 4395
+correlation[14] is 4280
+correlation[15] is 4318
+correlation[16] is 4330
+correlation[17] is 4346
+correlation[18] is 4208
+correlation[19] is 4249
+correlation[20] is 4315
+correlation[21] is 4191
+correlation[22] is 4266
+correlation[23] is 4312
+correlation[24] is 4246
+correlation[25] is 4226
+correlation[26] is 4311
+correlation[27] is 4370
+correlation[28] is 4210
+correlation[29] is 4277
+correlation[30] is 4380
+correlation[31] is 4286
+correlation[32] is 4268
+correlation[33] is 4336
+correlation[34] is 4271
+correlation[35] is 4212
+correlation[36] is 4286
+correlation[37] is 4200
+correlation[38] is 4290
+correlation[39] is 4268
+correlation[40] is 4245
+correlation[41] is 4238
+correlation[42] is 4239
+correlation[43] is 4239
+correlation[44] is 4287
+correlation[45] is 4266
+correlation[46] is 4294
+correlation[47] is 4236
+correlation[48] is 4350
+correlation[49] is 4190
+correlation[50] is 4251
+===============[health-->phone]==================================
+Average: 4264.68 Percent: 42.6468
+======================================================================
+correlation[1] is 3085
+correlation[2] is 3162
+correlation[3] is 3118
+correlation[4] is 3104
+correlation[5] is 3017
+correlation[6] is 3143
+correlation[7] is 3044
+correlation[8] is 3050
+correlation[9] is 3159
+correlation[10] is 3162
+correlation[11] is 3148
+correlation[12] is 3111
+correlation[13] is 3130
+correlation[14] is 3202
+correlation[15] is 3183
+correlation[16] is 3198
+correlation[17] is 3184
+correlation[18] is 3136
+correlation[19] is 3043
+correlation[20] is 3159
+correlation[21] is 3109
+correlation[22] is 3160
+correlation[23] is 3096
+correlation[24] is 3173
+correlation[25] is 3075
+correlation[26] is 3154
+correlation[27] is 3156
+correlation[28] is 3089
+correlation[29] is 3106
+correlation[30] is 3107
+correlation[31] is 3203
+correlation[32] is 3124
+correlation[33] is 3131
+correlation[34] is 3077
+correlation[35] is 3132
+correlation[36] is 3172
+correlation[37] is 3136
+correlation[38] is 3227
+correlation[39] is 2993
+correlation[40] is 3171
+correlation[41] is 3138
+correlation[42] is 3144
+correlation[43] is 3069
+correlation[44] is 3186
+correlation[45] is 2964
+correlation[46] is 3053
+correlation[47] is 3081
+correlation[48] is 3120
+correlation[49] is 3124
+correlation[50] is 3157
+===============[health-->finance]==================================
+Average: 3123.3 Percent: 31.233
+======================================================================
+correlation[1] is 5016
+correlation[2] is 4990
+correlation[3] is 5063
+correlation[4] is 4989
+correlation[5] is 5110
+correlation[6] is 5050
+correlation[7] is 4989
+correlation[8] is 5033
+correlation[9] is 5130
+correlation[10] is 5053
+correlation[11] is 5026
+correlation[12] is 5033
+correlation[13] is 5123
+correlation[14] is 5074
+correlation[15] is 5098
+correlation[16] is 5021
+correlation[17] is 5021
+correlation[18] is 5004
+correlation[19] is 4999
+correlation[20] is 5066
+correlation[21] is 4975
+correlation[22] is 5142
+correlation[23] is 4986
+correlation[24] is 4983
+correlation[25] is 5033
+correlation[26] is 4999
+correlation[27] is 4968
+correlation[28] is 5033
+correlation[29] is 5024
+correlation[30] is 5026
+correlation[31] is 5002
+correlation[32] is 5074
+correlation[33] is 5003
+correlation[34] is 4974
+correlation[35] is 5140
+correlation[36] is 4944
+correlation[37] is 5002
+correlation[38] is 4985
+correlation[39] is 5041
+correlation[40] is 5115
+correlation[41] is 5065
+correlation[42] is 5022
+correlation[43] is 5022
+correlation[44] is 5057
+correlation[45] is 4980
+correlation[46] is 5019
+correlation[47] is 4933
+correlation[48] is 5027
+correlation[49] is 5090
+correlation[50] is 5002
+===============[social-->phone]==================================
+Average: 5031.08 Percent: 50.3108
+======================================================================
+correlation s1[1] --> p1[1] : 4
+correlation s2[2] --> p2[2] : 5
+correlation s3[3] --> p3[3] : 5
+correlation s4[4] --> p4[4] : 1
+correlation s5[5] --> p5[5] : 1
+correlation s6[6] --> p6[6] : 4
+correlation s7[7] --> p7[7] : 3
+correlation s8[8] --> p8[8] : 8
+correlation s9[9] --> p9[9] : 1
+correlation s10[10] --> p10[10] : 6
+correlation s11[11] --> p11[11] : 5
+correlation s12[12] --> p12[12] : 8
+correlation s13[13] --> p13[13] : 1
+correlation s14[14] --> p14[14] : 7
+correlation s15[15] --> p15[15] : 8
+correlation s16[16] --> p16[16] : 3
+correlation s17[17] --> p17[17] : 5
+correlation s18[18] --> p18[18] : 8
+correlation s19[19] --> p19[19] : 6
+correlation s20[20] --> p20[20] : 7
+correlation s21[21] --> p21[21] : 6
+correlation s22[22] --> p22[22] : 4
+correlation s23[23] --> p23[23] : 7
+correlation s24[24] --> p24[24] : 4
+correlation s25[25] --> p25[25] : 3
+correlation s26[26] --> p26[26] : 7
+correlation s27[27] --> p27[27] : 6
+correlation s28[28] --> p28[28] : 7
+correlation s29[29] --> p29[29] : 7
+correlation s30[30] --> p30[30] : 6
+correlation s31[31] --> p31[31] : 8
+correlation s32[32] --> p32[32] : 7
+correlation s33[33] --> p33[33] : 3
+correlation s34[34] --> p34[34] : 6
+correlation s35[35] --> p35[35] : 4
+correlation s36[36] --> p36[36] : 5
+correlation s37[37] --> p37[37] : 1
+correlation s38[38] --> p38[38] : 5
+correlation s39[39] --> p39[39] : 3
+correlation s40[40] --> p40[40] : 6
+correlation s41[41] --> p41[41] : 4
+correlation s42[42] --> p42[42] : 5
+correlation s43[43] --> p43[43] : 6
+correlation s44[44] --> p44[44] : 3
+correlation s45[45] --> p45[45] : 6
+correlation s46[46] --> p46[46] : 6
+correlation s47[47] --> p47[47] : 3
+correlation s48[48] --> p48[48] : 5
+correlation s49[49] --> p49[49] : 3
+correlation s50[50] --> p50[50] : 4
+================================
+Average: 4.92
+================================
+correlation p1[1] --> h1[1] : 5
+correlation p2[2] --> h2[2] : 9
+correlation p3[3] --> h3[3] : 4
+correlation p4[4] --> h4[4] : 1
+correlation p5[5] --> h5[5] : 3
+correlation p6[6] --> h6[6] : 4
+correlation p7[7] --> h7[7] : 5
+correlation p8[8] --> h8[8] : 4
+correlation p9[9] --> h9[9] : 4
+correlation p10[10] --> h10[10] : 7
+correlation p11[11] --> h11[11] : 5
+correlation p12[12] --> h12[12] : 6
+correlation p13[13] --> h13[13] : 5
+correlation p14[14] --> h14[14] : 5
+correlation p15[15] --> h15[15] : 7
+correlation p16[16] --> h16[16] : 4
+correlation p17[17] --> h17[17] : 2
+correlation p18[18] --> h18[18] : 6
+correlation p19[19] --> h19[19] : 4
+correlation p20[20] --> h20[20] : 2
+correlation p21[21] --> h21[21] : 5
+correlation p22[22] --> h22[22] : 7
+correlation p23[23] --> h23[23] : 2
+correlation p24[24] --> h24[24] : 5
+correlation p25[25] --> h25[25] : 4
+correlation p26[26] --> h26[26] : 2
+correlation p27[27] --> h27[27] : 4
+correlation p28[28] --> h28[28] : 6
+correlation p29[29] --> h29[29] : 6
+correlation p30[30] --> h30[30] : 9
+correlation p31[31] --> h31[31] : 4
+correlation p32[32] --> h32[32] : 9
+correlation p33[33] --> h33[33] : 5
+correlation p34[34] --> h34[34] : 2
+correlation p35[35] --> h35[35] : 2
+correlation p36[36] --> h36[36] : 4
+correlation p37[37] --> h37[37] : 4
+correlation p38[38] --> h38[38] : 3
+correlation p39[39] --> h39[39] : 3
+correlation p40[40] --> h40[40] : 1
+correlation p41[41] --> h41[41] : 6
+correlation p42[42] --> h42[42] : 5
+correlation p43[43] --> h43[43] : 3
+correlation p44[44] --> h44[44] : 7
+correlation p45[45] --> h45[45] : 6
+correlation p46[46] --> h46[46] : 3
+correlation p47[47] --> h47[47] : 1
+correlation p48[48] --> h48[48] : 6
+correlation p49[49] --> h49[49] : 1
+correlation p50[50] --> h50[50] : 4
+================================
+Average: 4.42
+================================
+correlation h1[1] --> f1[1] : 3
+correlation h2[2] --> f2[2] : 4
+correlation h3[3] --> f3[3] : 3
+correlation h4[4] --> f4[4] : 1
+correlation h5[5] --> f5[5] : 2
+correlation h6[6] --> f6[6] : 2
+correlation h7[7] --> f7[7] : 7
+correlation h8[8] --> f8[8] : 3
+correlation h9[9] --> f9[9] : 1
+correlation h10[10] --> f10[10] : 3
+correlation h11[11] --> f11[11] : 4
+correlation h12[12] --> f12[12] : 4
+correlation h13[13] --> f13[13] : 3
+correlation h14[14] --> f14[14] : 2
+correlation h15[15] --> f15[15] : 2
+correlation h16[16] --> f16[16] : 3
+correlation h17[17] --> f17[17] : 4
+correlation h18[18] --> f18[18] : 1
+correlation h19[19] --> f19[19] : 2
+correlation h20[20] --> f20[20] : 1
+correlation h21[21] --> f21[21] : 2
+correlation h22[22] --> f22[22] : 2
+correlation h23[23] --> f23[23] : 4
+correlation h24[24] --> f24[24] : 4
+correlation h25[25] --> f25[25] : 1
+correlation h26[26] --> f26[26] : 2
+correlation h27[27] --> f27[27] : 3
+correlation h28[28] --> f28[28] : 1
+correlation h29[29] --> f29[29] : 2
+correlation h30[30] --> f30[30] : 1
+correlation h31[31] --> f31[31] : 4
+correlation h32[32] --> f32[32] : 1
+correlation h33[33] --> f33[33] : 3
+correlation h34[34] --> f34[34] : 3
+correlation h35[35] --> f35[35] : 2
+correlation h36[36] --> f36[36] : 5
+correlation h37[37] --> f37[37] : 7
+correlation h38[38] --> f38[38] : 1
+correlation h39[39] --> f39[39] : 2
+correlation h40[40] --> f40[40] : 2
+correlation h41[41] --> f41[41] : 2
+correlation h42[42] --> f42[42] : 1
+correlation h43[43] --> f43[43] : 2
+correlation h44[44] --> f44[44] : 1
+correlation h45[45] --> f45[45] : 2
+correlation h46[46] --> f46[46] : 6
+correlation h47[47] --> f47[47] : 2
+correlation h48[48] --> f48[48] : 3
+correlation h49[49] --> f49[49] : 8
+correlation h50[50] --> f50[50] : 2
+================================
+Average: 2.72
+================================

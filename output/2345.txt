@@ -1,0 +1,11 @@
+The information leakage of many tera or petabyte level dataset due to existance of unplanned cross-correlation in the large data repository such as cloud DBaaS is very hard problem with exponential growth rate. We propose an cross-correlation approximation technique based on the correlated sampling to create very small synopsis of the very large scale original datasets. Through the analysis of the small synopsis, and finding potential relationships with other public domain data the quick estimation of cross-correlation will be optianed which is a clear indicator of information leakage. The introduced approximation method eliminates the need for analysis of the origina datasets for cross-correlation discovery.
+
+Consider two collections, $C_i, C_j$, let $\mathcal{C} be the exact cross-correlation size of these collections which is defined as the number of documents in $C_1$ and $C_2$ that have the same value for the correlation attribute. $and samples comprising of  
+
+
+
+
+
+
+
+
